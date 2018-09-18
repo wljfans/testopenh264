@@ -178,7 +178,7 @@ public class MainActivity extends AppCompatActivity
 
 
     static {
-        System.loadLibrary("alivch264enc");
+        System.loadLibrary("openh264");
         System.loadLibrary("enc_auto_test");
     }
 }
